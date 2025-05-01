@@ -9,5 +9,5 @@ Hello! My name is Sidharth Thatipamula and I am a rising senior at The Georgia I
 Career Interest:
 I aim to pursue a career in consulting focused in the Technology and Strategy Division. I also aim to pursue a Masters in Business Administration.
 
-<img src="/headshot.jpg" alt="Headshot" style="width: 160px; border-radius: 50%; display: block; margin: 1rem auto;" />
+<img src="/headshot1.jpeg" alt="Headshot" style="width: 160px; border-radius: 50%; display: block; margin: 1rem auto;" />
 
