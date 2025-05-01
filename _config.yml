@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "siddu.pdf", title: "CV"}
   - {title: "Projects"}
 
+
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sthatipamula@gatech.edu"}
   - {title: Github, icon: github, url: "https://github.com/sidt123321"}
